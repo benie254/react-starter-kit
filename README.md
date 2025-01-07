@@ -51,15 +51,29 @@ Install package dependencies by running the following command:
 ```
 npm i
 ```
+
 or
+
 ```
 npm install
 ```
+
 or
+
 ```
 yarn i
 ```
+
 or
+
 ```
 yarn install
+```
+
+### 2. Development Server
+
+Start the development server by running the following command:
+
+```
+npm run dev
 ```
