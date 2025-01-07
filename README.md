@@ -1,8 +1,11 @@
 # React Starter Kit
+
 A template repository for creating a react app with Vite and using SCSS for styles.
 
 ## Description
+
 This app is meant to cut the manual work in the development of React projects, by creating reusable essentials that are uniform in most projects. Some of these essentials are:
+
 - Elements & resources in `index.html`.
 - Components in `components` folder.
 - Project icon/logo in `assets` and `public` directories.
@@ -13,6 +16,7 @@ This app is meant to cut the manual work in the development of React projects, b
 This app creates a foundation from which you can build the rest of your application. Feel free to open the above mentioned files/directories and edit/update them to align with your project.
 
 ## Project Structure
+
 Navigate through the project in the following structure:
 
 ```
@@ -30,3 +34,8 @@ Navigate through the project in the following structure:
 ├── LICENSE
 └── README.md
 ```
+
+- The `public` directory contains production-ready resources that the application can access upon deployment.
+- The `src` directory contains the project's source code, including components and styles, among other files.
+  - The `assets` subdirectory contains static resources like images and icons.
+  - The `components` subdirectory contains reusable components that can be shared across the application.
