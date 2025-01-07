@@ -11,3 +11,22 @@ This app is meant to cut the manual work in the development of React projects, b
 - Routing configuration in `main.tsx` and `App.tsx`.
 
 This app creates a foundation from which you can build the rest of your application. Feel free to open the above mentioned files/directories and edit/update them to align with your project.
+
+## Project Structure
+Navigate through the project in the following structure:
+
+```
+.
+├── react-starter/
+│   ├── public/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   └── ...
+│   ├── ...
+│   │
+│   ├── README.md
+│   └── ...
+├── LICENSE
+└── README.md
+```
