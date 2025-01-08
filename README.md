@@ -84,7 +84,15 @@ This app sets a foundation for the creation and use of:
 
 Follow the steps below to get the project ready for local development.
 
-### 1. Dependencies - Packages
+### 1. Navigation
+
+Navigate to the project directory by running the following command:
+
+```
+cd react-starter
+```
+
+### 2. Dependencies - Packages
 
 Install package dependencies by running the following command:
 
@@ -110,7 +118,7 @@ or
 yarn install
 ```
 
-### 2. Development Server
+### 3. Development Server
 
 Start the development server by running the following command:
 
