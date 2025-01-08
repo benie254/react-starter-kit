@@ -129,3 +129,42 @@ Start the development server by running the following command:
 ```
 npm run dev
 ```
+
+## Issues
+
+Issues on GitHub repos are classified as (among more):
+
+- Bugs
+- Documentation
+- Enhancements
+- Questions
+
+To raise an issue, go to this GitHub repository's **issues** tab:
+
+```
+https://github.com/benie254/react-starter-kit/issues/new
+```
+
+### 1. Bugs
+
+Currently, there are no known bugs. If you encounter any, please raise an issue labeled as `bug`.
+
+![GitHub's Add New Issue Tab with Mouse Highlighting a Bug Label](image-1.png)
+
+### 2. Documentation
+
+Got any suggested improvements or additions to this project's documentation? Please raise an issue labeled as `documentation`.
+
+![GitHub's Add New Issue Tab with Mouse Highlighting a Documentation Label](image-3.png)
+
+### 3. Enhancements
+
+Got a new feature/enhancement in mind? Please raise an issue labeled as `enhancement`.
+
+![GitHub's Add New Issue Tab with Mouse Highlighting an Enhancement Label](image-4.png)
+
+### 4. Questions
+
+Got any questions? Please raise an issue labeled as `question`.
+
+![GitHub's Add New Issue Tab with Mouse Highlighting a Question Label](image-2.png)
