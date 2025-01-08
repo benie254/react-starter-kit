@@ -92,7 +92,7 @@ Clone this project's repository by running the following command:
 git clone https://github.com/benie254/react-starter-kit.git
 ```
 
-### 2. Navigation
+### 2. Navigate
 
 Navigate to the project directory by running the following command:
 
@@ -100,9 +100,9 @@ Navigate to the project directory by running the following command:
 cd react-starter
 ```
 
-### 3. Dependencies - Packages
+### 3. Install Dependencies - Packages & Libs
 
-Install package dependencies by running the following command:
+Install package/library dependencies by running the following command:
 
 ```
 npm i
@@ -126,7 +126,7 @@ or
 yarn install
 ```
 
-### 4. Development Server
+### 4. Start Development Server
 
 Start the development server by running the following command:
 
