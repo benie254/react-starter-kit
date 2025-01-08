@@ -57,6 +57,17 @@ Be sure to checkout contents of the `./package.json` file.
 - If you want to retain all the installed dependencies in this file, you may leave it as it is.
 - If you want to remove a particular dependency from the project, highlight that dependency and delete it (along with the comma at the end of the line).
 
+### Optional Updates
+
+This app sets a foundation for the creation and use of:
+
+- Services in `./src/services/`.
+
+**NOTE**:
+
+- If your project will require services, you can use the `services` directory in `./src/`.
+- If your project **does not** require services, you can delete the `services` directory in `./src/`.
+
 ## Setup
 
 Follow the steps below to get the project ready for local development.
