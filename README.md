@@ -92,7 +92,15 @@ Clone this project's repository by running the following command:
 git clone https://github.com/benie254/react-starter-kit.git
 ```
 
-### 2. Navigate
+### 2. Open the Project
+
+Open the project in a **code editor** of your choice. If you use VSCode, run the following command:
+
+```
+code .
+```
+
+### 3. Navigate to Project Dir
 
 Navigate to the project directory by running the following command:
 
@@ -100,15 +108,9 @@ Navigate to the project directory by running the following command:
 cd react-starter
 ```
 
-### 3. Install Dependencies - Packages & Libs
+### 4. Install Dependencies - Packages & Libs
 
 Install package/library dependencies by running the following command:
-
-```
-npm i
-```
-
-or
 
 ```
 npm install
@@ -117,16 +119,10 @@ npm install
 or
 
 ```
-yarn i
-```
-
-or
-
-```
 yarn install
 ```
 
-### 4. Start Development Server
+### 5. Start Development Server
 
 Start the development server by running the following command:
 
