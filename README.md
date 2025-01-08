@@ -148,6 +148,7 @@ Issues on GitHub repos are classified as (among more):
 
 To raise an issue, go to this GitHub repository's **issues** tab:
 
+- [https://github.com/benie254/react-starter-kit/issues/new](https://github.com/benie254/react-starter-kit/issues/new)
 ```
 https://github.com/benie254/react-starter-kit/issues/new
 ```
@@ -179,7 +180,10 @@ Got any questions? Please raise an issue labeled as `question`.
 ## Contact Details
 
 Reach out via email to discuss this or more projects:
-[fullstack.benie@gmail.com](mailto:fullstack.benie@gmail.com)
+- [fullstack.benie@gmail.com](mailto:fullstack.benie@gmail.com)
+```
+fullstack.benie@gmail.com
+```
 
 # License
 
