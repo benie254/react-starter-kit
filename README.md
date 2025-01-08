@@ -84,7 +84,15 @@ This app sets a foundation for the creation and use of:
 
 Follow the steps below to get the project ready for local development.
 
-### 1. Navigation
+### 1. Clone the Repo
+
+Clone this project's repository by running the following command:
+
+```
+git clone https://github.com/benie254/react-starter-kit.git
+```
+
+### 2. Navigation
 
 Navigate to the project directory by running the following command:
 
@@ -92,7 +100,7 @@ Navigate to the project directory by running the following command:
 cd react-starter
 ```
 
-### 2. Dependencies - Packages
+### 3. Dependencies - Packages
 
 Install package dependencies by running the following command:
 
@@ -118,7 +126,7 @@ or
 yarn install
 ```
 
-### 3. Development Server
+### 4. Development Server
 
 Start the development server by running the following command:
 
