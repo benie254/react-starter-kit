@@ -1,9 +1,9 @@
 export default function HomeComponent() {
   return (
     <div>
-      <h1>React Starter Pack</h1>
+      <h1>React Starter Kit</h1>
       <p>
-        Use this template repository as a starter pack <br /> for building
+        Use this template repository as a starter kit <br /> for building
         projects in{" "}
         <code>
           <b>React</b>
