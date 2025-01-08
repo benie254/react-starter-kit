@@ -129,3 +129,78 @@ Start the development server by running the following command:
 ```
 npm run dev
 ```
+
+## Technologies Used
+
+- React (v18.3.1)
+- TypeScript (v5.6.2)
+- SASS (v1.83.1)
+- HTML/JSX
+
+## Issues
+
+Issues on GitHub repos are classified as (among more):
+
+- Bugs
+- Documentation
+- Enhancements
+- Questions
+
+To raise an issue, go to this GitHub repository's **issues** tab:
+
+```
+https://github.com/benie254/react-starter-kit/issues/new
+```
+
+### 1. Bugs
+
+Currently, there are no known bugs. If you encounter any, please raise an issue labeled as `bug`.
+
+![GitHub's Add New Issue Tab with Mouse Highlighting a Bug Label](image-1.png)
+
+### 2. Documentation
+
+Got any suggested improvements or additions to this project's documentation? Please raise an issue labeled as `documentation`.
+
+![GitHub's Add New Issue Tab with Mouse Highlighting a Documentation Label](image-3.png)
+
+### 3. Enhancements
+
+Got a new feature/enhancement in mind? Please raise an issue labeled as `enhancement`.
+
+![GitHub's Add New Issue Tab with Mouse Highlighting an Enhancement Label](image-4.png)
+
+### 4. Questions
+
+Got any questions? Please raise an issue labeled as `question`.
+
+![GitHub's Add New Issue Tab with Mouse Highlighting a Question Label](image-2.png)
+
+## Contact Details
+
+Reach out via email to discuss this or more projects:
+[fullstack.benie@gmail.com](mailto:fullstack.benie@gmail.com)
+
+# License
+
+MIT License
+
+Copyright (c) 2025 Benson Langat
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
