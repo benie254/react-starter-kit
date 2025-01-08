@@ -130,6 +130,13 @@ Start the development server by running the following command:
 npm run dev
 ```
 
+## Technologies Used
+
+- React (v18.3.1)
+- TypeScript (v5.6.2)
+- SASS (v1.83.1)
+- HTML/JSX
+
 ## Issues
 
 Issues on GitHub repos are classified as (among more):
