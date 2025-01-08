@@ -175,3 +175,8 @@ Got a new feature/enhancement in mind? Please raise an issue labeled as `enhance
 Got any questions? Please raise an issue labeled as `question`.
 
 ![GitHub's Add New Issue Tab with Mouse Highlighting a Question Label](image-2.png)
+
+## Contact Details
+
+Reach out via email to discuss this or more projects:
+[fullstack.benie@gmail.com](mailto:fullstack.benie@gmail.com)
