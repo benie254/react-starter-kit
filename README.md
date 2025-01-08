@@ -65,17 +65,17 @@ This app sets a foundation for the creation and use of:
 - Forms in `./src/forms/`.
 - Utils in `./src/utils/`.
 
-**NOTE (on `services`)**:
+#### NOTE (on `services`):
 
 - If your project will require services, you can use the `services` directory in `./src/`.
 - If your project **does not** require services, you can delete the `services` directory in `./src/`.
 
-**NOTE (on `forms`)**:
+#### NOTE (on `forms`):
 
 - If your project will require forms, you can use the `forms` directory in `./src/`.
 - If your project **does not** require forms, you can delete the `forms` directory in `./src/`.
 
-**NOTE (on `utils`)**:
+#### NOTE (on `utils`):
 
 - If your project will require utilities (utils), you can use the `utils` directory in `./src/`.
 - If your project **does not** require utilities (utils), you can delete the `utils` directory in `./src/`.
